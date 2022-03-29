@@ -1,3 +1,10 @@
 {
-  "update": "no"
+  "{
+  "update": "Yes",
+  "new_version": "0.8.3",
+  "apk_file_url": "https://github.com/arshackerofficial/ARSHPREETMALKANA/blob/main/Metashow%203.0.apk?raw=true",
+  "update_log": "Test Update",
+  "target_size": "5 laudas",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": true
 }
